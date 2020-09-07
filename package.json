@@ -1,5 +1,5 @@
 {
-  "name": "react-native-fs",
+  "name": "@fleeters-io/react-native-fs",
   "version": "2.16.6",
   "description": "Native filesystem access for react-native",
   "main": "FS.common.js",
